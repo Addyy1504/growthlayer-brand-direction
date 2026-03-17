@@ -87,7 +87,7 @@ function App() {
       <footer className="bg-white border-t border-gray-200 py-12">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="text-sm text-gray-500 tracking-wider">
-            © 2024 Brand Direction Explorer. Crafted with precision.
+            © 2026 GrowthLayer Studio.
           </p>
         </div>
       </footer>
