@@ -78,11 +78,6 @@ function App() {
         <BrandGallery onPreference={handlePreference} />
       </div>
 
-      <Recommendation
-        preferences={preferences}
-        onUseDirection={handleUseDirection}
-      />
-
       <div id="enquiry">
         <EnquiryForm />
       </div>
